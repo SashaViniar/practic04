@@ -25,7 +25,61 @@ position:relative --  top right left: -30
 position:fixed -- botton right 0 0 .... or left top 0 0
 
 
-position:absolute   div claas1 div posabs
+position:absolute   div claas1 div posit abs
+
+z-index:0 and ++ or --; -1
+
+
+
+css !  
+
+header aside footer nav article{
+background-color: Random:rdn;
+}
+
+*{
+ margin:0;
+ padding:0;
+}
+
+
+<main>
+
+aside :float:left;
+widht.. 20%;
+
+
+article float:left 70%
+
+
+nav
+
+</main>
+
+footer
+
+
+
+<header>
+    <h1>
+        This is a header
+</header>
+
+<aside>
+    <h2> </h2>
+</aside> 20%
+
+<article>  size 70%
+    
+<article>
+
+<nav>10%
+    
+</nav>
+
+<footer>
+
+</footer>>
 
 
 #font-face{
